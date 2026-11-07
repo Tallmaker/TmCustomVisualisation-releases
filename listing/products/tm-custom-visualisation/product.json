@@ -1,0 +1,69 @@
+{
+  "name": "Tm Custom Visualisation",
+  "pitch": "Shape Qlik data with your own HTML and CSS, ready-made layouts and four independent styles.",
+  "question": "How can I shape a Qlik view around the story in my data?",
+  "useWhen": "Design a custom card, list, infographic or data scene",
+  "purposes": ["kpi", "comparison", "composition"],
+  "features": [
+    "22 chart, card and list types, plus four infographic briefings",
+    "Four styles, shared through an app variable or chosen per object",
+    "Own HTML and CSS with values, loops, conditions and groups",
+    "Selections, keyboard interaction, tooltips and sheet links",
+    "Paged lists and checked data loads up to 200,000 rows",
+    "AI template prompts and optional scripts in a sealed frame"
+  ],
+  "hero": {
+    "file": "images/hero.png",
+    "alt": "Regional bars, category columns, grouped monthly columns and a revenue trend in the Native style.",
+    "caption": "Start from a chart layout and shape it around your data"
+  },
+  "screenshots": [
+    {
+      "file": "images/screenshot-charts.png",
+      "alt": "The same regional, category and monthly revenue charts in the Signal style.",
+      "caption": "The same charts and data in Signal"
+    },
+    {
+      "file": "images/screenshot-cards.png",
+      "alt": "Three KPI cards and a hero revenue card with a trend and target progress in Signal.",
+      "caption": "KPI cards and a hero KPI in Signal"
+    },
+    {
+      "file": "images/screenshot-lists.png",
+      "alt": "A ranked product list beside grouped category and product revenue in Native.",
+      "caption": "Ranked and grouped lists with totals and shares"
+    }
+  ],
+  "questions": [
+    "How can I compare measures in a layout that fits my app?",
+    "How can I combine cards, lists and infographics in one data view?",
+    "How can viewers select values in a custom template?"
+  ],
+  "audience": "Qlik dashboard authors who need custom cards, lists, infographics or data scenes.",
+  "featureStrips": [
+    {
+      "heading": "Choose a layout and change its style",
+      "text": "Start from charts, cards and lists, then choose Native, Harbor, Signal or Margin without replacing your HTML and CSS.",
+      "image": "images/cards-margin.png",
+      "alt": "KPI cards and a hero revenue card in Margin, using the same data as the Signal cards."
+    },
+    {
+      "heading": "Tell the story with an infographic",
+      "text": "Combine a total, shares and comparisons in one briefing, or adapt the template for your own measures.",
+      "image": "images/screenshot-infographics.png",
+      "alt": "A revenue total and donut beside contribution bars in Margin."
+    },
+    {
+      "heading": "Keep the detail close",
+      "text": "Build a detailed ledger with measures and small comparison marks, or use a paged table for longer lists.",
+      "image": "images/ledger-margin.png",
+      "alt": "Regional revenue, target and prior-period measures with small comparison bars in Margin."
+    },
+    {
+      "heading": "Compare steps and shares",
+      "text": "Use a cumulative waterfall to explain movement, or a treemap to compare each positive contribution with the total.",
+      "image": "images/extras-signal.png",
+      "alt": "A signed waterfall beside a product revenue treemap in Signal."
+    }
+  ]
+}
