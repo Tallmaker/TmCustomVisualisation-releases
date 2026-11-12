@@ -1,6 +1,6 @@
-# Tm Custom Visualisation releases
+# Tm Studio releases
 
-This repository hosts the public downloads of Tm Custom Visualisation, a Qlik Cloud visualization extension by Tallmaker. You design the object's look with your own HTML and CSS, or start from one of the ready-made chart, card and list layouts, and choose one of four styles.
+This repository hosts the public downloads of Tm Studio, a Qlik Cloud visualization extension by Tallmaker. You design the object's look with your own HTML and CSS, or start from one of the ready-made chart, card and list layouts, and choose one of four styles.
 
 ## Download
 
@@ -23,6 +23,6 @@ shasum -a 256 -c tmcustomvisualisation-<version>.zip.sha256
 
 ## Install
 
-Upload the versioned ZIP as an extension in the target Qlik Cloud tenant, then add Tm Custom Visualisation to a sheet. Import the demo app separately if you want a working example.
+Upload the versioned ZIP as an extension in the target Qlik Cloud tenant, then add Tm Studio to a sheet. Import the demo app separately if you want a working example.
 
 Tested on Qlik Cloud with Chrome. See each release's notes for its known limits.

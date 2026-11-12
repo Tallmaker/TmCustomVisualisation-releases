@@ -5,9 +5,9 @@ order: 10
 
 # Build your first view
 
-Tm Custom Visualisation is for dashboard authors who need a custom card, list, infographic or scene. It uses the dimensions and measures you add in Qlik. If a native chart already fits, it is usually quicker to set up and brings Qlik's own export and accessibility features.
+Tm Studio is for dashboard authors who need a custom card, list, infographic or scene. It uses the dimensions and measures you add in Qlik. If a native chart already fits, it is usually quicker to set up and brings Qlik's own export and accessibility features.
 
-1. Edit a sheet and add Tm Custom Visualisation from the custom objects.
+1. Edit a sheet and add Tm Studio from the custom objects.
 2. Under Data, add one dimension and one measure, for example Region and Sales.
 3. Open Template, choose Baseline bars under Preset and choose Load preset. Read the preset's field-order guidance: your field labels can be different.
 4. Choose a Style independently of the preset. Changing Style keeps your HTML and CSS; Load preset replaces them.
