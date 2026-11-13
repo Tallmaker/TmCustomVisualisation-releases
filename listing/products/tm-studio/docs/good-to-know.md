@@ -5,7 +5,7 @@ order: 40
 
 # Requirements
 
-Tested on Qlik Cloud with Chrome. Qlik Sense client-managed and other browsers are not yet tested. Image sources must be allowed by the tenant's content-source policy, and fonts must already be available in the browser. Create app variables before using them; absent-variable behavior still needs hosted verification.
+Tested on Qlik Cloud with Chrome. Other browsers are not yet tested. Image sources must be allowed by the tenant's content-source policy, and fonts must already be available in the browser. Create app variables before using them; absent-variable behavior still needs hosted verification.
 
 The Tallmaker license is supplied through the separate license extension issued for your tenant. This visualization contains no license. License attention does not block rendering or interaction.
 

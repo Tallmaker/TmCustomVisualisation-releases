@@ -4,21 +4,21 @@ This repository hosts the public downloads of Tm Studio, a Qlik Cloud visualizat
 
 ## Download
 
-Open the [Releases](https://github.com/Tallmaker/TmCustomVisualisation-releases/releases) page and choose the version you need. Download the asset named `tmcustomvisualisation-<version>.zip`.
+Open the [Releases](https://github.com/Tallmaker/TmStudio-releases/releases) page and choose the version you need. Download the asset named `tmstudio-<version>.zip` (releases up to 1.8.0 use the name `tmcustomvisualisation-<version>.zip`).
 
 Do not use GitHub's automatic "Source code" archives. Those archives contain only this distribution repository, not the Qlik extension.
 
 Every release includes:
 
-- `tmcustomvisualisation-<version>.zip`, the extension archive to upload to Qlik Cloud
-- `tmcustomvisualisation-<version>.zip.sha256`, the SHA-256 checksum for that archive
+- `tmstudio-<version>.zip`, the extension archive to upload to Qlik Cloud
+- `tmstudio-<version>.zip.sha256`, the SHA-256 checksum for that archive
 - `release-demo-<version>.qvf` and its `.sha256`, a separate demo app with synthetic data
 - `release-manifest.json`, the checksums of both files
 
 Verify a download from the directory that holds both files:
 
 ```sh
-shasum -a 256 -c tmcustomvisualisation-<version>.zip.sha256
+shasum -a 256 -c tmstudio-<version>.zip.sha256
 ```
 
 ## Install
