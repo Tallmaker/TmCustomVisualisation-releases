@@ -14,8 +14,12 @@
   ],
   "hero": {
     "file": "images/hero.png",
-    "alt": "Regional bars, category columns, grouped monthly columns and a revenue trend in the Native style.",
-    "caption": "Start from a chart layout and shape it around your data"
+    "alt": "Tm Studio on a dark green field with four overlapping display cards: HTML and CSS code, a ranked list, a percentage briefing and charts in different styles.",
+    "caption": "Your own HTML and CSS, shaped around your Qlik data"
+  },
+  "cover": {
+    "file": "images/cover.png",
+    "alt": "Tm Studio with four overlapping display cards: HTML and CSS code, a ranked list, a percentage briefing and charts in different styles."
   },
   "screenshots": [
     {
